@@ -1,0 +1,156 @@
+acc    : SRR1552445
+path   : https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR1552445/SRR1552445
+size   : 1,982,141,676
+type   : Table
+platf  : SRA_PLATFORM_ILLUMINA
+SEQ    : 29,731,031
+SCHEMA : NCBI:SRA:Illumina:tbl:phred:v2#1.0.4
+TIME   : 0x0000000053ee65d8 (08/15/2014 12:56)
+FMT    : Fastq
+FMTVER : 2.3.5
+LDR    : fastq-load.2.3.5
+LDRVER : 2.3.5
+LDRDATE: Mar 19 2014 (3/19/2014 0:0)
+acc    : SRR1552444
+path   : https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR1552444/SRR1552444
+size   : 1,860,436,486
+type   : Table
+platf  : SRA_PLATFORM_ILLUMINA
+SEQ    : 27,919,481
+SCHEMA : NCBI:SRA:Illumina:tbl:phred:v2#1.0.4
+TIME   : 0x0000000053ee649a (08/15/2014 12:50)
+FMT    : Fastq
+FMTVER : 2.3.5
+LDR    : fastq-load.2.3.5
+LDRVER : 2.3.5
+LDRDATE: Mar 19 2014 (3/19/2014 0:0)
+acc    : SRR1552446
+path   : https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR1552446/SRR1552446
+size   : 1,991,327,031
+type   : Table
+platf  : SRA_PLATFORM_ILLUMINA
+SEQ    : 29,879,070
+SCHEMA : NCBI:SRA:Illumina:tbl:phred:v2#1.0.4
+TIME   : 0x0000000053ee64e8 (08/15/2014 12:52)
+FMT    : Fastq
+FMTVER : 2.3.5
+LDR    : fastq-load.2.3.5
+LDRVER : 2.3.5
+LDRDATE: Mar 19 2014 (3/19/2014 0:0)
+acc    : SRR1552447
+path   : https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR1552447/SRR1552447
+size   : 1,947,378,184
+type   : Table
+platf  : SRA_PLATFORM_ILLUMINA
+SEQ    : 29,245,388
+SCHEMA : NCBI:SRA:Illumina:tbl:phred:v2#1.0.4
+TIME   : 0x0000000053ee6572 (08/15/2014 12:54)
+FMT    : Fastq
+FMTVER : 2.3.5
+LDR    : fastq-load.2.3.5
+LDRVER : 2.3.5
+LDRDATE: Mar 19 2014 (3/19/2014 0:0)
+acc    : SRR1552449
+path   : https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR1552449/SRR1552449
+size   : 2,071,447,130
+type   : Table
+platf  : SRA_PLATFORM_ILLUMINA
+SEQ    : 31,276,061
+SCHEMA : NCBI:SRA:Illumina:tbl:phred:v2#1.0.4
+TIME   : 0x0000000053ee64e7 (08/15/2014 12:52)
+FMT    : Fastq
+FMTVER : 2.3.5
+LDR    : fastq-load.2.3.5
+LDRVER : 2.3.5
+LDRDATE: Mar 19 2014 (3/19/2014 0:0)
+acc    : SRR1552448
+path   : https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR1552448/SRR1552448
+size   : 2,083,011,494
+type   : Table
+platf  : SRA_PLATFORM_ILLUMINA
+SEQ    : 31,425,424
+SCHEMA : NCBI:SRA:Illumina:tbl:phred:v2#1.0.4
+TIME   : 0x0000000053ee6580 (08/15/2014 12:54)
+FMT    : Fastq
+FMTVER : 2.3.5
+LDR    : fastq-load.2.3.5
+LDRVER : 2.3.5
+LDRDATE: Mar 19 2014 (3/19/2014 0:0)
+acc    : SRR1552451
+path   : https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR1552451/SRR1552451
+size   : 1,865,166,750
+type   : Table
+platf  : SRA_PLATFORM_ILLUMINA
+SEQ    : 28,322,351
+SCHEMA : NCBI:SRA:Illumina:tbl:phred:v2#1.0.4
+TIME   : 0x0000000053ee64c6 (08/15/2014 12:51)
+FMT    : Fastq
+FMTVER : 2.3.5
+LDR    : fastq-load.2.3.5
+LDRVER : 2.3.5
+LDRDATE: Mar 19 2014 (3/19/2014 0:0)
+acc    : SRR1552450
+path   : https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR1552450/SRR1552450
+size   : 1,978,104,563
+type   : Table
+platf  : SRA_PLATFORM_ILLUMINA
+SEQ    : 30,109,290
+SCHEMA : NCBI:SRA:Illumina:tbl:phred:v2#1.0.4
+TIME   : 0x0000000053ee650c (08/15/2014 12:52)
+FMT    : Fastq
+FMTVER : 2.3.5
+LDR    : fastq-load.2.3.5
+LDRVER : 2.3.5
+LDRDATE: Mar 19 2014 (3/19/2014 0:0)
+acc    : SRR1552452
+path   : https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR1552452/SRR1552452
+size   : 2,082,601,435
+type   : Table
+platf  : SRA_PLATFORM_ILLUMINA
+SEQ    : 31,688,348
+SCHEMA : NCBI:SRA:Illumina:tbl:phred:v2#1.0.4
+TIME   : 0x0000000053ee64ec (08/15/2014 12:52)
+FMT    : Fastq
+FMTVER : 2.3.5
+LDR    : fastq-load.2.3.5
+LDRVER : 2.3.5
+LDRDATE: Mar 19 2014 (3/19/2014 0:0)
+acc    : SRR1552453
+path   : https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR1552453/SRR1552453
+size   : 1,950,713,167
+type   : Table
+platf  : SRA_PLATFORM_ILLUMINA
+SEQ    : 29,614,284
+SCHEMA : NCBI:SRA:Illumina:tbl:phred:v2#1.0.4
+TIME   : 0x0000000053ee6576 (08/15/2014 12:54)
+FMT    : Fastq
+FMTVER : 2.3.5
+LDR    : fastq-load.2.3.5
+LDRVER : 2.3.5
+LDRDATE: Mar 19 2014 (3/19/2014 0:0)
+acc    : SRR1552454
+path   : https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR1552454/SRR1552454
+size   : 1,800,884,477
+type   : Table
+platf  : SRA_PLATFORM_ILLUMINA
+SEQ    : 27,225,012
+SCHEMA : NCBI:SRA:Illumina:tbl:phred:v2#1.0.4
+TIME   : 0x0000000053ee6491 (08/15/2014 12:50)
+FMT    : Fastq
+FMTVER : 2.3.5
+LDR    : fastq-load.2.3.5
+LDRVER : 2.3.5
+LDRDATE: Mar 19 2014 (3/19/2014 0:0)
+acc    : SRR1552455
+path   : https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR1552455/SRR1552455
+size   : 1,679,247,560
+type   : Table
+platf  : SRA_PLATFORM_ILLUMINA
+SEQ    : 25,433,157
+SCHEMA : NCBI:SRA:Illumina:tbl:phred:v2#1.0.4
+TIME   : 0x0000000053ee6498 (08/15/2014 12:50)
+FMT    : Fastq
+FMTVER : 2.3.5
+LDR    : fastq-load.2.3.5
+LDRVER : 2.3.5
+LDRDATE: Mar 19 2014 (3/19/2014 0:0)

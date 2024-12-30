@@ -1,0 +1,25 @@
+Module	Section	Sample Name	Source
+fastp	all_sections	SRR1552452	/Users/sarahussin/Desktop/FA 2024/QSB 282/Lab 11/GSE60450/SRR1552452.fastq.fastp.json
+fastp	all_sections	SRR1552446	/Users/sarahussin/Desktop/FA 2024/QSB 282/Lab 11/GSE60450/SRR1552446.fastq.fastp.json
+fastp	all_sections	SRR1552449	/Users/sarahussin/Desktop/FA 2024/QSB 282/Lab 11/GSE60450/SRR1552449.fastq.fastp.json
+fastp	all_sections	SRR1552453	/Users/sarahussin/Desktop/FA 2024/QSB 282/Lab 11/GSE60450/SRR1552453.fastq.fastp.json
+fastp	all_sections	SRR1552447	/Users/sarahussin/Desktop/FA 2024/QSB 282/Lab 11/GSE60450/SRR1552447.fastq.fastp.json
+fastp	all_sections	SRR1552448	/Users/sarahussin/Desktop/FA 2024/QSB 282/Lab 11/GSE60450/SRR1552448.fastq.fastp.json
+fastp	all_sections	SRR1552444	/Users/sarahussin/Desktop/FA 2024/QSB 282/Lab 11/GSE60450/SRR1552444.fastq.fastp.json
+fastp	all_sections	SRR1552450	/Users/sarahussin/Desktop/FA 2024/QSB 282/Lab 11/GSE60450/SRR1552450.fastq.fastp.json
+fastp	all_sections	SRR1552454	/Users/sarahussin/Desktop/FA 2024/QSB 282/Lab 11/GSE60450/SRR1552454.fastq.fastp.json
+fastp	all_sections	SRR1552445	/Users/sarahussin/Desktop/FA 2024/QSB 282/Lab 11/GSE60450/SRR1552445.fastq.fastp.json
+fastp	all_sections	SRR1552451	/Users/sarahussin/Desktop/FA 2024/QSB 282/Lab 11/GSE60450/SRR1552451.fastq.fastp.json
+fastp	all_sections	SRR1552455	/Users/sarahussin/Desktop/FA 2024/QSB 282/Lab 11/GSE60450/SRR1552455.fastq.fastp.json
+FastQC	all_sections	SRR1552449	/Users/sarahussin/Desktop/FA 2024/QSB 282/Lab 11/GSE60450/SRR1552449.fastq.fastp_fastqc.zip
+FastQC	all_sections	SRR1552444	/Users/sarahussin/Desktop/FA 2024/QSB 282/Lab 11/GSE60450/SRR1552444.fastq.fastp_fastqc.zip
+FastQC	all_sections	SRR1552447	/Users/sarahussin/Desktop/FA 2024/QSB 282/Lab 11/GSE60450/SRR1552447.fastq.fastp_fastqc.zip
+FastQC	all_sections	SRR1552446	/Users/sarahussin/Desktop/FA 2024/QSB 282/Lab 11/GSE60450/SRR1552446.fastq.fastp_fastqc.zip
+FastQC	all_sections	SRR1552445	/Users/sarahussin/Desktop/FA 2024/QSB 282/Lab 11/GSE60450/SRR1552445.fastq.fastp_fastqc.zip
+FastQC	all_sections	SRR1552448	/Users/sarahussin/Desktop/FA 2024/QSB 282/Lab 11/GSE60450/SRR1552448.fastq.fastp_fastqc.zip
+FastQC	all_sections	SRR1552450	/Users/sarahussin/Desktop/FA 2024/QSB 282/Lab 11/GSE60450/SRR1552450.fastq.fastp_fastqc.zip
+FastQC	all_sections	SRR1552454	/Users/sarahussin/Desktop/FA 2024/QSB 282/Lab 11/GSE60450/SRR1552454.fastq.fastp_fastqc.zip
+FastQC	all_sections	SRR1552453	/Users/sarahussin/Desktop/FA 2024/QSB 282/Lab 11/GSE60450/SRR1552453.fastq.fastp_fastqc.zip
+FastQC	all_sections	SRR1552452	/Users/sarahussin/Desktop/FA 2024/QSB 282/Lab 11/GSE60450/SRR1552452.fastq.fastp_fastqc.zip
+FastQC	all_sections	SRR1552455	/Users/sarahussin/Desktop/FA 2024/QSB 282/Lab 11/GSE60450/SRR1552455.fastq.fastp_fastqc.zip
+FastQC	all_sections	SRR1552451	/Users/sarahussin/Desktop/FA 2024/QSB 282/Lab 11/GSE60450/SRR1552451.fastq.fastp_fastqc.zip

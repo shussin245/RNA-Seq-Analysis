@@ -1,0 +1,3 @@
+[2024-12-06 18:35:52,281] multiqc.core.file_search                           [INFO   ]  Search path: /Users/sarahussin/Desktop/FA 2024/QSB 282/Lab 11/GSE60450
+[2024-12-06 18:35:52,848] multiqc.modules.fastp.fastp                        [INFO   ]  Found 12 reports
+[2024-12-06 18:35:52,930] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 12 reports
